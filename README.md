@@ -1,9 +1,33 @@
-- 👋 Hi there!, I’m Sathish Kumar S S. 🎓 Computer Science graduate from Thiagarajar College of Engineering, Madurai.
-- 👀 Passionate about coding and done many projects.
-- 🌱 Always learning and exploring new technologies.
-- 💞️ Proficient in Java, MySQL, and HTML/CSS.
-- 📫 Let's Connect :  sathishkumar97902@gmail.com , LinkedIN : www.linkedin.com/in/sathish-kumar-s-s-686082263
-- 😄 Pronouns: He/Him
+## **Hey, I’m Sathish Kumar!👋🏻**
+
+Computer Science graduate from Thiagarajar College of Engineering. Passionate about coding and doing projects.
+
+
+- Currently learning **DSA, Springboot** to further enhance my skills
+- Proficient in **Java, MySQL, and HTML/CSS.**
+- Continuously enhancing my **Full Stack Development** skills
+- Excited about collaborating on the projects
+
+## 💼 Skills
+
+**Languages**: `Java` `HTML` `CSS`
+
+**DataBases:** `MySQL`
+
+**Tools:** `Git` `Figma`
+
+
+## 📫 Contact
+For a quick response, DM me on [LinkedIn](www.linkedin.com/in/sathishkumarss).\
+For professional inquiries, reach out via Email at [sathishkumar97902@gmail.com](mailto:sathishkumar97902@gmail.com).
+ 
+```Java
+while life:
+    eat(food)
+    code(ideas)
+    sleep(dreams)   
+```
+
 
 <!---
 sathishkumar-ss/sathishkumar-ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
