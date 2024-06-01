@@ -1,5 +1,5 @@
 - 👋 Hi there!, I’m Sathish Kumar S S. 🎓 Computer Science graduate from Thiagarajar College of Engineering, Madurai.
-- 👀 Passionate about coding and always eager to learn new technologies.
+- 👀 Passionate about coding and done many projects.
 - 🌱 Always learning and exploring new technologies.
 - 💞️ Proficient in Java, MySQL, and HTML/CSS.
 - 📫 Let's Connect :  sathishkumar97902@gmail.com , LinkedIN : www.linkedin.com/in/sathish-kumar-s-s-686082263
