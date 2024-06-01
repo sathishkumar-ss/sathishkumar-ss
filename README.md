@@ -22,10 +22,11 @@ For a quick response, DM me on [LinkedIn](www.linkedin.com/in/sathishkumarss).\
 For professional inquiries, reach out via Email at [sathishkumar97902@gmail.com](mailto:sathishkumar97902@gmail.com).
  
 ```Java
-while life:
-    eat(food)
-    code(ideas)
-    sleep(dreams)   
+ while (life) {
+            eat(food);
+            code(ideas);
+            sleep(dreams);
+        }  
 ```
 
 
