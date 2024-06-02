@@ -18,7 +18,7 @@ Computer Science graduate from Thiagarajar College of Engineering. Passionate ab
 
 
 ## 📫 Contact
-For a quick response, DM me on [LinkedIn](www.linkedin.com/in/sathishkumarss).\
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sathishkumarss).\
 For professional inquiries, reach out via Email at [sathishkumar97902@gmail.com](mailto:sathishkumar97902@gmail.com).
  
 ```Java
