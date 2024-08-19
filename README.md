@@ -10,11 +10,11 @@ Computer Science graduate from Thiagarajar College of Engineering. Passionate ab
 
 ## 💼 Skills
 
-**Languages**: `Java` `HTML` `CSS` `JavaScript` `React.JS`
+**Languages**: `Java` `HTML` `CSS` `JavaScript`
 
 **DataBases:** `MySQL` `PostgreSQL` `MongoDB`
 
-**Tools:** `SpringBoot`
+**Tools:** `SpringBoot` `ReactJS`
 
 **Tools:** `Git` `Figma`
 
